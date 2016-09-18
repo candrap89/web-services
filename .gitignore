@@ -1,0 +1,44 @@
+#Macosx ignore
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows ignore
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+#Linux ignore
+*~
+
+.svn/*
+
+*.log
+*.ear
+*.pptx
+*.docx
+*.doc
+*.vsdx
+*.class
+Documents
+Documentation/
+*.pdf
+*.exe
+*.xls
+*.xlsx
+
+tag/
+.project
+/property/Workspace/Global/Summary*
+*.orig
+
+/src/java/AmdocsAPI/ApiAmdocsSoar/dist/
+/src/java/AmdocsAPI/ApiAmdocsSoar/APIAmdocSoar/nbproject/private/
+/src/java/AmdocsAPI/ApiAmdocsSoar/APIAmdocSoar/build
+/src/java/AmdocsAPI/ApiAmdocsSoar/ApiAmdocsSoar/nbproject/private/
+/src/java/AmdocsAPI/ApiAmdocsSoar/build/
